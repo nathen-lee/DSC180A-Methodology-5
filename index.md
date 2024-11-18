@@ -1,6 +1,6 @@
-**Name and Email: ** Nathen Lee nal008@ucsd.edu
+Name and Email: Nathen Lee nal008@ucsd.edu
 
-**Section and Mentor: **Section A04 Mikio Aoi
+Section and Mentor: Section A04 Mikio Aoi
 
 ## Prompts
 1. The most interesting topic I covered this quarter was the neuro data we are working with itself and how it is collected.
